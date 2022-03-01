@@ -6,7 +6,7 @@ case "$1" in
     sudo apt install picom xsetroot dmenu 
   ;;
   "--arch")
-    sudo pacman -S picom xorg-xsetroot dmenu 
+    sudo pacman -S picom xorg-xsetroot dmenu
 esac
 cp conf/picom.conf $HOME/.config/
 sudo make clean install
