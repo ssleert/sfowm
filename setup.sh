@@ -8,7 +8,7 @@ case "$1" in
   "--arch")
     sudo pacman -S picom
 esac
-cp picom.conf $HOME/.config/
+cp conf/picom.conf $HOME/.config/
 sudo make clean install
 sudo touch /usr/share/xsessions/sfowm.desktop
 sudo echo "[Desktop Entry]" >> /usr/share/xsessions/sfowm.desktop
