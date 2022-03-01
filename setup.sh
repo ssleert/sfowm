@@ -1,5 +1,4 @@
 #!/bin/sh
-
 echo "sfowm install script"
 echo "version 0.1"
 case "$1" in
