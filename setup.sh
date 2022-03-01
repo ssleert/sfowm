@@ -11,4 +11,4 @@ esac
 cp conf/picom.conf $HOME/.config/
 sudo make clean install
 sudo cp conf/sfowm.desktop /usr/share/xsessions/sfowm.desktop
-cp conf/.sfowm $HOME/.sfowm
+cp -r conf/.sfowm $HOME/.sfowm
