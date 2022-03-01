@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sfowm
+Comment=useless fork of dwm
+Exec=sfowm
+Icon=sfowm
+Type=XSession
