@@ -1,15 +1,21 @@
 # sfowm - fork of dwm 
 
 ## sfowm is fast and small dynamic window manager for X
-## with compositor and rounded corners
+ with compositor and rounded corners
 
 ## Installation
 ```bash
 ./setup.sh
 ```
 # Running sfowm
-
-## add to .xinitrc
+### add to .xinitrc
 ```bash
 exec sfowm
+```
+# Running sfowm
+```bash
+while true; do
+	xsetroot -name " $(date +"%F %R") "
+	sleep 1m  
+done &
 ```
