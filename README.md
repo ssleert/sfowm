@@ -20,4 +20,4 @@ done &
 exec sfowm
 ```
 # Screenshot of sfowm
-![sfowm](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![sfowm](https://github.com/ssleert/sfowm/blob/main/staff/2022-03-01_09-47.png?raw=true)
