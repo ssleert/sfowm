@@ -11,10 +11,13 @@
 ```bash
 exec sfowm
 ```
-# Add time in bar
+# dwm with time in bar
 ```bash
 while true; do
 	xsetroot -name " $(date +"%F %R") "
 	sleep 1m
 done &
+exec sfowm
 ```
+# Screenshot of sfowm
+![sfowm](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
