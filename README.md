@@ -12,7 +12,7 @@
 ```bash
 exec sfowm
 ```
-# Running sfowm
+# Add time in bar
 ```bash
 while true; do
 	xsetroot -name " $(date +"%F %R") "
