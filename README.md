@@ -21,5 +21,5 @@ exec sfowm
 ```
 # Screenshot of sfowm
 ![sfowm](https://github.com/ssleert/sfowm/blob/main/staff/2022-03-02_05-41.png?raw=true)
-### sfowm with st+scroll
+### sfowm with st + scroll
 #### https://github.com/ssleert/st-term
